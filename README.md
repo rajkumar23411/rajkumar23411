@@ -1,13 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
 
-####  A polymathic trinity : Software Engineering, Design & Philosophical Acumen - forging the future with each keystroke.
+####  A polymathic trinity : Software Engineering & problem solver - forging the future with each keystroke.
 
 ##### NOW
 - 🎓 Currently mastering MERN Stack
 - 👷🏻 Developer at [asity.tech](https://www.youtube.com/@asity5476)
 
 ##### BIO
-- 👷‍♂️ Preferred tech stack `mern stack` `tailwind.css`
+- 👷‍♂️ Preferred tech stack `mern stack` `tailwind.css` `MVC`
 - 🫡 Talk to me about anything `mern stack` `react.js` `express.js` `mongodb`
 - 📫 Hit me up at [Linkedin](https://www.linkedin.com/in/rajkumar-kalita-9a854a270/)
 
@@ -28,7 +28,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![JSON Web Tokens](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![ReactQUery](https://img.shields.io/badge/-ReactQuery-EF4444?style=flat-square&logo=reactQuery&logoColor=white)
 
 ##### STUF TO EXPLORE
 
