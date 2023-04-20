@@ -1,6 +1,11 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"/>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
-####  A polymathic trinity : Software Engineering & problem solver - forging the future with each keystroke.
+I'm Rajkumar 😉, technology consultant 👨🏻‍💻 from India. I'm an open-source profession and mostly develop in JavaScript 🐍.
+<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
+
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=800&lines=Technology+Consultant+and+Full+Stack+developer;With+experince+in+JavaScript+of+3%2B+Years;and+dedication+to+study+up-to-date+with+the+latest+technologies" height="40"/>
+
+
 
 ##### NOW
 - 🎓 Currently mastering MERN Stack
@@ -49,3 +54,6 @@
 | ![](https://github-readme-stats.vercel.app/api?username=rajkumar23411&theme=react&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=rajkumar23411&theme=react&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar23411&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 
 </details>
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '1100' />
