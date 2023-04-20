@@ -1,11 +1,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
 I'm Rajkumar 😉, technology consultant 👨🏻‍💻 from India. I'm an open-source profession and mostly develop in JavaScript 🐍.
-<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=800&lines=Technology+Consultant+and+Full+Stack+developer;With+experince+in+JavaScript+of+3%2B+Years;and+dedication+to+study+up-to-date+with+the+latest+technologies" height="40"/>
 
-
+<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 
 ##### NOW
 - 🎓 Currently mastering MERN Stack
