@@ -7,8 +7,8 @@ I'm Rajkumar 😉, technology enthusiast 👨🏻‍💻 and a student who loves
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 
 ##### NOW
+- 👷🏻 Developer at [Authenticate®]([https://authenticate.com/])
 - 🎓 Currently mastering MERN Stack
-- 👷🏻 Developer at [asity.tech](https://www.youtube.com/@asity5476)
 
 ##### BIO
 - 👷‍♂️ Preferred tech stack `mern stack` `tailwind.css` `MVC`
