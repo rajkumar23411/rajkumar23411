@@ -11,7 +11,7 @@ Currently working at **Authenticate®** as a Frontend Developer, while also buil
 - 💻 Tech Stack: `React.js` `Next.js` `Redux` `TailwindCSS` `Node.js` `Express.js` `FastAPI` `PostgreSQL` `MongoDB`  
 - 🚀 Interests: Frontend Engineering, Authentication & Security, SaaS Architecture  
 - 🌱 Currently exploring: **Agentic AI Development, OpenAI, LLM, NLP**  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rajkumar-kalita/) 
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rajkumar-kalita/) [Portfolio](https://rajkumarkalita.vercel.app)
 
 ---
 
